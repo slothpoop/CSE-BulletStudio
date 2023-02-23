@@ -108,3 +108,4 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
 Registered in 0.021322 seconds.
+Begin MonoManager ReloadAssembly
