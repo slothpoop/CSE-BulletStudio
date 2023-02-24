@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG Sky
+    uniqueID: 2918998871
+    locked: 0
+  - name: BG Clouds
+    uniqueID: 448213297
+    locked: 0
+  - name: Powerups
+    uniqueID: 4267617993
+    locked: 0
+  - name: Bullets
+    uniqueID: 1689891285
+    locked: 0
+  - name: Player
+    uniqueID: 3636086943
+    locked: 0
+  - name: Enemy1
+    uniqueID: 3570838871
+    locked: 0
