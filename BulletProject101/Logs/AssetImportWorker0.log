@@ -9,8 +9,8 @@ Architecture:            x86_64
 Available memory:        5791 MB
 Using pre-set license
 Pro License: YES
-Gtk-Message: 11:30:17.837: Failed to load module "canberra-gtk-module"
-Gtk-Message: 11:30:17.838: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:53:44.590: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:53:44.591: Failed to load module "canberra-gtk-module"
 Desktop is 1920 x 1080 @ 60 Hz
 Initialize udev device monitor.
 
@@ -26,7 +26,7 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-46259
+42953
 Successfully changed project path to: /home/eli-hat/Documents/GitHub/CSE-BulletStudio/BulletProject101
 /home/eli-hat/Documents/GitHub/CSE-BulletStudio/BulletProject101
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -58,11 +58,11 @@ Successfully changed project path to: /home/eli-hat/Documents/GitHub/CSE-BulletS
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [139935156671104] Host "[IP] 10.123.19.179 [Port] 0 [Flags] 2 [Guid] 422175655 [EditorId] 422175655 [Version] 1048832 [Id] LinuxEditor(16,10.123.19.179) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [139623359804032] Host "[IP] 10.123.19.179 [Port] 0 [Flags] 2 [Guid] 1939462798 [EditorId] 1939462798 [Version] 1048832 [Id] LinuxEditor(16,10.123.19.179) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [139935156671104] Host "[IP] 10.123.19.179 [Port] 0 [Flags] 2 [Guid] 422175655 [EditorId] 422175655 [Version] 1048832 [Id] LinuxEditor(16,10.123.19.179) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [139623359804032] Host "[IP] 10.123.19.179 [Port] 0 [Flags] 2 [Guid] 1939462798 [EditorId] 1939462798 [Version] 1048832 [Id] LinuxEditor(16,10.123.19.179) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 117.61 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 127.32 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
 [Subsystems] Discovering subsystems at path /home/eli-hat/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
@@ -78,95 +78,95 @@ _buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_in
 _texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_
 rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_textur
 e_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 284563472
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -501378048
 Initialize mono
 Mono path[0] = '/home/eli-hat/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
 Mono path[1] = '/home/eli-hat/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
 Mono config path = '/home/eli-hat/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56661
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /home/eli-hat/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.004788 seconds.
+Registered in 0.005729 seconds.
 Native extension for LinuxStandalone target not found
-Refreshing native plugins compatible for Editor in 115.02 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 117.05 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.849 seconds
+- Completed reload, in  0.877 seconds
 Domain Reload Profiling:
-	ReloadAssembly (850ms)
-		BeginReloadAssembly (66ms)
+	ReloadAssembly (877ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (649ms)
-			LoadAssemblies (64ms)
+		EndReloadAssembly (632ms)
+			LoadAssemblies (108ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (110ms)
+			SetupTypeCache (106ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (430ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (418ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (115ms)
+				RefreshPlugins (117ms)
 				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (233ms)
-				ProcessInitializeOnLoadMethodAttributes (67ms)
+				ProcessInitializeOnLoadAttributes (222ms)
+				ProcessInitializeOnLoadMethodAttributes (65ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004210 seconds.
+Registered in 0.004246 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /home/eli-hat/Documents/GitHub/CSE-BulletStudio/BulletProject101/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /home/eli-hat/Documents/GitHub/CSE-BulletStudio/BulletProject101/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for LinuxStandalone target not found
-Refreshing native plugins compatible for Editor in 119.61 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 117.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 UpdateMenuTitleForLanguage: 10
 Mono: successfully reloaded assembly
-- Completed reload, in  1.766 seconds
+- Completed reload, in  1.738 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1768ms)
-		BeginReloadAssembly (131ms)
+	ReloadAssembly (1739ms)
+		BeginReloadAssembly (120ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
+			DisableScriptedObjects (10ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (31ms)
-		EndReloadAssembly (1487ms)
-			LoadAssemblies (126ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1470ms)
+			LoadAssemblies (139ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (285ms)
+			SetupTypeCache (296ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (90ms)
-			SetupLoadedEditorAssemblies (894ms)
+			RebuildScriptCaches (76ms)
+			SetupLoadedEditorAssemblies (866ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (120ms)
-				BeforeProcessingInitializeOnLoad (126ms)
-				ProcessInitializeOnLoadAttributes (494ms)
-				ProcessInitializeOnLoadMethodAttributes (140ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (479ms)
+				ProcessInitializeOnLoadMethodAttributes (133ms)
+				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 5556 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 44 unused Assets / (0.8 MB). Loaded Objects now: 6009.
 Memory consumption went from 212.7 MB to 211.9 MB.
-Total: 8.105919 ms (FindLiveObjects: 0.621866 ms CreateObjectMapping: 0.358216 ms MarkObjects: 6.341309 ms  DeleteObjects: 0.775937 ms)
+Total: 5.185995 ms (FindLiveObjects: 0.595816 ms CreateObjectMapping: 0.196673 ms MarkObjects: 3.833728 ms  DeleteObjects: 0.548603 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -179,31 +179,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 5575.071614 seconds.
-  path: Assets/Settings/UniversalRP.asset
-  artifactKey: Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Settings/UniversalRP.asset using Guid(681886c5eb7344803b6206f758bf0b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '361bc3d5f13dcf5e2215084dfc2b45ff') in 0.026263 seconds 
+  Time since last request: 613.023414 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf
+  artifactKey: Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf using Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de38c754ba1c0914b58a9d955998e721') in 0.383380 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/Input/Input.inputactions
-  artifactKey: Guid(e097a2c722439f546a6a97461b9a3452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Input/Input.inputactions using Guid(e097a2c722439f546a6a97461b9a3452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2037223dbe254a9cac1f6ae23467fe95') in 0.006540 seconds 
+  Time since last request: 0.000063 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggleHistory.prefab
+  artifactKey: Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggleHistory.prefab using Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20cc118992ba93532f5f3034021d766') in 0.027910 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.395703 seconds.
-  path: Assets/Prefabs
-  artifactKey: Guid(5acd71667f14a4f41a1441d36528501f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs using Guid(5acd71667f14a4f41a1441d36528501f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04947e574f9fafb2e9cdb729302e69f8') in 0.000684 seconds 
+  Time since last request: 0.000051 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f2d8899841759d9cf47dfcbfb4e6b5') in 0.171284 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.106015 seconds.
-  path: Assets/Prefabs/Bullet.prefab
-  artifactKey: Guid(eb83983ee2823d0499bbbbc630de1606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Bullet.prefab using Guid(eb83983ee2823d0499bbbbc630de1606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283dee1b15362d6bedc028e8475b3eb3') in 0.297125 seconds 
+  Time since last request: 0.000032 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4555855a9671efcf61514d6a68205b') in 0.011636 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 32.272081 seconds.
-  path: Assets/Scenes/Ex_Scene.unity
-  artifactKey: Guid(0a21a3ddb707a499583e20a3fd73a6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Ex_Scene.unity using Guid(0a21a3ddb707a499583e20a3fd73a6ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6c80c0b8bbdaa876190d1a49babae5') in 0.001798 seconds 
+  Time since last request: 0.000035 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumField.prefab
+  artifactKey: Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumField.prefab using Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e393f575b5cebdd565a846234cb554ba') in 0.006454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab
+  artifactKey: Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab using Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ee083d8aed58af17edafd35eadecff') in 0.017349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7935c625ff5f23699f2eacf48b03fba6') in 0.017203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0512afb46912c945ae434d18c21496b6') in 0.009441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab
+  artifactKey: Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.spriteshape/Editor/ObjectMenuCreation/DefaultAssets/Sprite Shapes/Open Sprite Shape.prefab using Guid(86ae7de409eb54f619fb1328e4d42480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1579bf4962af5b71244fdabedbe865') in 0.022096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0655b40ccf09af2fa207d83cb304f7b9') in 0.145377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIIntField.prefab
+  artifactKey: Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIIntField.prefab using Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9cb0965fc3c6096bfb0c74dba10f3e') in 0.004288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector4.prefab
+  artifactKey: Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector4.prefab using Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70a5dac449cac4dd54bc4c5e769c3d8') in 0.005039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx
+  artifactKey: Guid(9e1c97fc44f9a8744b61b58f72c56de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx using Guid(9e1c97fc44f9a8744b61b58f72c56de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65b394fa7959bba3956d4fae4c08fda') in 0.282443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.240499 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(3a4fba4c19fa0704b83df4cd7dac7520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(3a4fba4c19fa0704b83df4cd7dac7520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1bf2039489caaa4c227a2b824e0db71') in 0.000655 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.093601 seconds.
+  path: Assets/Sprites/Airplane Player Sprite.png
+  artifactKey: Guid(b9681be66eaae0e4a83f57d5c7b3a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Airplane Player Sprite.png using Guid(b9681be66eaae0e4a83f57d5c7b3a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dffdc4bb520cc8ff0bd6579d6e2b0006') in 0.066957 seconds 
