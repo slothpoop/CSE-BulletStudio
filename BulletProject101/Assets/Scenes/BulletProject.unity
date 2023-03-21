@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 31271495}
   - component: {fileID: 31271496}
   - component: {fileID: 31271497}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -442,6 +442,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -460,6 +468,24 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 245501027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1
+--- !u!1 &300429853 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+  m_PrefabInstance: {fileID: 107933972}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &300429859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 300429853}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
@@ -707,7 +733,7 @@ GameObject:
   - component: {fileID: 1041905451}
   - component: {fileID: 1041905453}
   - component: {fileID: 1041905452}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Graphics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -978,7 +1004,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1507055880}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Gun Offset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1059,6 +1085,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1123,6 +1157,14 @@ PrefabInstance:
     - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_Name
       value: Enemy1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_IsTrigger
