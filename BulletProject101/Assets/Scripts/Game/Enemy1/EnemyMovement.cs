@@ -4,63 +4,46 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-	[SerializeField]
-	private float _speed;
+    public enum states{
+        straight,
+        wavy,
+		loop
+    }
 
-	[SerializeField]
-	private float _rotationSpeed;
+    public states currentState;
+    public float speed;
 
-	private Rigidbody2D _rigidbody;
-	private PlayerAwarenessController _playerAwarenessController;
-	private Vector2 _targetDirection;
+    [Header("Wavy Variables")]
+    public float amplitude;
+    public float period;
+    public float shift;
+    public float yChange;
+    private float newX;
+    private float newY;
 
-	private void Awake()
-	{
-		_rigidbody = GetComponent<Rigidbody2D>();
-		_playerAwarenessController = GetComponent<PlayerAwarenessController>();
-	}
-	
-	private void FixedUpdate()
-	{
-		UpdateTargetDirction();
-		RotateTowardsTarget();
-		SetVelocity();
-	}
+    private Rigidbody2D myRigidbody;
 
-	private void UpdateTargetDirction()
-	{
-		if (_playerAwarenessController.AwareOfPlayer)
-		{
-			_targetDirection = _playerAwarenessController.DirectionToPlayer;
-		}
-		else
-		{
-			_targetDirection = Vector2.zero;
-		}
-	}
+    // Start is called before the first frame update
+    void Start()
+    {
+        myRigidbody = GetComponent<Rigidbody2D>();
+    }
 
-	private void RotateTowardsTarget()
-	{
-		if (_targetDirection == Vector2.zero)
-		{
-			return;
-		}
-		Quaternion targetRotation = Quaternion.LookRotation(transform.forward, _targetDirection);
-		Quaternion rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, _rotationSpeed * Time.deltaTime);
-
-		_rigidbody.SetRotation(rotation);
-	}
-
-	private void SetVelocity()
-	{
-		if (_targetDirection == Vector2.zero)
-		{
-			_rigidbody.velocity = Vector2.zero;
-		}
-		else
-		{
-			_rigidbody.velocity = transform.up * _speed;
-		}
-	}
+    // Update is called once per frame
+    void Update()
+    {
+      //Check for method of movement
+      switch(currentState){
+        case states.straight:
+        myRigidbody.velocity = new Vector2(myRigidbody.velocity.x, -speed);
+        break;
+      case states.wavy:
+            newY = transform.position.y - yChange;
+            newX = amplitude * Mathf.Sin(period * newY) + shift;
+            Vector2 tempPosition = new Vector2(newX, newY);
+            transform.position = tempPosition;
+        break;
+       
+      }  
+    }
 }
-
