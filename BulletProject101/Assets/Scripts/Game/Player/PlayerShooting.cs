@@ -16,7 +16,7 @@ public class PlayerShooting : MonoBehaviour
 
     [SerializeField]
     private float _timeBetweenShots;
-
+    
     private bool _fireContinuously;
     private float _lastFireTime;
 
@@ -29,9 +29,9 @@ public class PlayerShooting : MonoBehaviour
             if (timeSinceLastFire >= _timeBetweenShots)
             {
 
-                FireBullet();
+            FireBullet();
 
-                _lastFireTime = Time.time;
+            _lastFireTime = Time.time;
             }
         }
     }
@@ -48,6 +48,4 @@ public class PlayerShooting : MonoBehaviour
     {
         _fireContinuously = inputValue.isPressed;
     }
-
 }
-
