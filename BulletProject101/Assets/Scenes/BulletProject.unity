@@ -138,7 +138,9 @@ GameObject:
   - component: {fileID: 31271495}
   - component: {fileID: 31271496}
   - component: {fileID: 31271497}
-  m_Layer: 0
+  - component: {fileID: 31271498}
+  - component: {fileID: 31271499}
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,6 +287,31 @@ MonoBehaviour:
   _bulletSpeed: 10
   _gunOffset: {fileID: 261077288}
   _timeBetweenShots: 0.1
+--- !u!114 &31271498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31271489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 5
+--- !u!114 &31271499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 31271489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1eaefde8969c94b94c5617210cb909, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &90155320
 GameObject:
   m_ObjectHideFlags: 0
@@ -383,6 +410,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 1.8
+--- !u!1 &106369860 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+  m_PrefabInstance: {fileID: 1945036078088191516}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &106369866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106369860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1
 --- !u!1001 &107933972
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -390,6 +435,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1945036076468780812, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1945036076468780813, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -438,6 +487,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 763549ae583111c4092d95033beb0d64, type: 3}
 --- !u!1 &261077287
@@ -449,7 +510,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 261077288}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Gun Offset (Right)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -712,7 +773,7 @@ GameObject:
   - component: {fileID: 1041905451}
   - component: {fileID: 1041905453}
   - component: {fileID: 1041905452}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Graphics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -991,6 +1052,37 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1356841661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356841654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1
+--- !u!1 &1419222048 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+  m_PrefabInstance: {fileID: 1794475334}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1419222054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419222048}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbebcca116123894392196fbdd9467dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 1
 --- !u!1 &1507055879
 GameObject:
   m_ObjectHideFlags: 0
@@ -1000,7 +1092,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1507055880}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Gun Offset (Left)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1029,6 +1121,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1945036076468780812, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1945036076468780813, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -1077,6 +1173,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 763549ae583111c4092d95033beb0d64, type: 3}
 --- !u!1001 &1945036078088191516
@@ -1086,6 +1194,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1945036076468780812, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1945036076468780813, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1134,13 +1246,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy1
       objectReference: {fileID: 0}
+    - target: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1945036078042034156, guid: 763549ae583111c4092d95033beb0d64, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_Radius
       value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 5632196554091922066, guid: 763549ae583111c4092d95033beb0d64, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 763549ae583111c4092d95033beb0d64, type: 3}
