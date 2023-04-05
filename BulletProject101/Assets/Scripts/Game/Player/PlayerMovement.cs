@@ -13,7 +13,9 @@ public class PlayerMovement : MonoBehaviour
 	private Vector2 _smoothedMovementInput;
 	private Vector2 _movementInputSmoothVelocity;
 
-	private void Awake()
+    public HealthBar healthBar;
+
+    private void Awake()
 	{
 		_rigidbody = GetComponent<Rigidbody2D>();
 	}
@@ -34,4 +36,11 @@ public class PlayerMovement : MonoBehaviour
 	{
 		_movementInput = inputValue.Get<Vector2>();
 	}
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Damage") ;
+        {
+            healthBar.Damage(0.02f);
+        }
+    }
 }
