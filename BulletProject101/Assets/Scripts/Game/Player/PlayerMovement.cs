@@ -38,7 +38,7 @@ public class PlayerMovement : MonoBehaviour
 	}
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Damage") ;
+        if (collision.tag == "Damage") 
         {
             healthBar.Damage(0.02f);
         }
