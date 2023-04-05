@@ -6,8 +6,8 @@ using TMPro;
 public class CreditScroll : MonoBehaviour
 {
     float speed = 100.0f;
-    float textPosBegin = -370.0f;
-    float boundaryTextEnd = 450.0f;
+    float textPosBegin = -470.0f;
+    float boundaryTextEnd = 615.0f;
 
     RectTransform myGorectTransform;
     [SerializeField]
