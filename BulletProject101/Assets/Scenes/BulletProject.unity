@@ -203,7 +203,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 3
 =======
   m_RootOrder: 5
@@ -229,9 +228,6 @@ Transform:
   m_RootOrder: 7
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
-=======
-  m_RootOrder: 3
->>>>>>> parent of 4728211 (ignored)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &31271494
 MonoBehaviour:
@@ -364,7 +360,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c1eaefde8969c94b94c5617210cb909, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -508,8 +503,6 @@ Canvas:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 --- !u!1 &90155320
 GameObject:
   m_ObjectHideFlags: 0
@@ -593,9 +586,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 4728211 (ignored)
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
 =======
@@ -615,7 +605,6 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
   m_RootOrder: 4
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -647,8 +636,6 @@ Transform:
   m_RootOrder: 8
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &90155323
 MonoBehaviour:
@@ -760,7 +747,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1945036076468780813, guid: 763549ae583111c4092d95033beb0d64, type: 3}
   m_PrefabInstance: {fileID: 107933972}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1485,8 +1471,6 @@ CanvasRenderer:
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 --- !u!1 &261077287
 GameObject:
   m_ObjectHideFlags: 0
@@ -1750,7 +1734,6 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &398383749
@@ -1839,11 +1822,6 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 763549ae583111c4092d95033beb0d64, type: 3}
 --- !u!1 &519420028
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &398383749
->>>>>>> parent of 4728211 (ignored)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2223,7 +2201,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2913,10 +2890,6 @@ PrefabInstance:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> parent of 4728211 (ignored)
 --- !u!1 &1041905449
 GameObject:
   m_ObjectHideFlags: 0
@@ -3111,7 +3084,6 @@ AudioSource:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -3290,8 +3262,6 @@ CanvasRenderer:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 --- !u!1 &1356841654 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1945036076468780819, guid: 763549ae583111c4092d95033beb0d64, type: 3}
@@ -3716,7 +3686,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   m_LocalPosition: {x: 592.2295, y: 272.91055, z: 6.1772385}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -3952,8 +3921,6 @@ RectTransform:
   m_GameObject: {fileID: 1618167406}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> parent of 4728211 (ignored)
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3968,7 +3935,6 @@ RectTransform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4405,8 +4371,6 @@ AudioSource:
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 --- !u!1001 &1794475334
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4564,6 +4528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
@@ -4573,7 +4538,6 @@ MonoBehaviour:
   m_RepeatDelay: 0.5
   m_ForceModuleActive: 0
 --- !u!114 &1843436631
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4682,8 +4646,6 @@ RectTransform:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4696,10 +4658,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5073,8 +5035,6 @@ CanvasRenderer:
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 4728211 (ignored)
 --- !u!1001 &1945036078088191516
 PrefabInstance:
   m_ObjectHideFlags: 0
