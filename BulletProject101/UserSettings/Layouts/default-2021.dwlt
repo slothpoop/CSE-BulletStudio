@@ -16,8 +16,11 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -27,8 +30,12 @@ MonoBehaviour:
     height: 715
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -38,6 +45,9 @@ MonoBehaviour:
     height: 1037
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -68,8 +78,11 @@ MonoBehaviour:
     y: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -82,6 +95,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 119
 =======
   controlID: 51
@@ -96,6 +110,10 @@ MonoBehaviour:
   controlID: 119
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+  controlID: 119
+=======
+>>>>>>> parent of 7002ff9 (test)
     width: 1920
     height: 987
   m_MinSize: {x: 300, y: 200}
@@ -104,6 +122,9 @@ MonoBehaviour:
   controlID: 67
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -126,6 +147,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -137,6 +161,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 1321
@@ -153,6 +178,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     x: 1282
     y: 0
     width: 638
@@ -161,6 +188,9 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -190,6 +220,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 228
     height: 394
 =======
@@ -204,6 +235,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 7002ff9 (test)
 =======
+>>>>>>> parent of 7002ff9 (test)
+=======
+    width: 228
+    height: 394
+=======
+    width: 264
+    height: 584
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -243,6 +282,7 @@ MonoBehaviour:
     y: 394
     width: 921
     height: 271
+<<<<<<< HEAD
 =======
     y: 584
 <<<<<<< HEAD
@@ -256,6 +296,13 @@ MonoBehaviour:
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
 =======
+    width: 1282
+    height: 403
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
+=======
+=======
+    y: 584
     width: 1282
     height: 403
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
@@ -290,6 +337,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
     height: 715
 =======
@@ -305,6 +353,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 7002ff9 (test)
 =======
+>>>>>>> parent of 7002ff9 (test)
+=======
+    width: 1206
+    height: 715
+=======
+    width: 1920
+    height: 1037
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -327,6 +383,7 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
 =======
 <<<<<<< HEAD
@@ -339,6 +396,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 7002ff9 (test)
 =======
+>>>>>>> parent of 7002ff9 (test)
+=======
+    width: 1206
+=======
+    width: 1920
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -363,6 +426,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 695
     width: 1206
 =======
@@ -378,6 +442,14 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of 7002ff9 (test)
 =======
+>>>>>>> parent of 7002ff9 (test)
+=======
+    y: 695
+    width: 1206
+=======
+    y: 1017
+    width: 1920
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -405,6 +477,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -418,9 +493,13 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 2a5cad5 (Fixes)
     width: 1321
+=======
+    width: 1282
+>>>>>>> parent of 7002ff9 (test)
 =======
     width: 1282
 >>>>>>> parent of 7002ff9 (test)
@@ -433,11 +512,16 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 39
 <<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
 =======
 >>>>>>> parent of 2a5cad5 (Fixes)
+=======
+  controlID: 54
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
   controlID: 54
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
@@ -469,6 +553,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -482,9 +569,13 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 2a5cad5 (Fixes)
     width: 1321
+=======
+    width: 1282
+>>>>>>> parent of 7002ff9 (test)
 =======
     width: 1282
 >>>>>>> parent of 7002ff9 (test)
@@ -497,11 +588,16 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 40
 <<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
 =======
 >>>>>>> parent of 2a5cad5 (Fixes)
+=======
+  controlID: 55
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
   controlID: 55
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
@@ -529,6 +625,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -538,6 +637,7 @@ MonoBehaviour:
     width: 693
     height: 394
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 315
@@ -552,12 +652,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     x: 264
     y: 0
     width: 1018
     height: 584
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -598,12 +703,15 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 657
     width: 1320
     height: 382
 >>>>>>> parent of 2a5cad5 (Fixes)
 =======
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
     m_Tooltip: 
@@ -615,6 +723,9 @@ MonoBehaviour:
     height: 382
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -634,6 +745,7 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
 =======
 <<<<<<< HEAD
@@ -647,16 +759,26 @@ MonoBehaviour:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+    - Assets
+=======
+    - Assets/Scripts/Game/Player
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: U:\layout
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -672,6 +794,12 @@ MonoBehaviour:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+  - Assets/Scripts/Game/Player
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\Pablo\Documents\GitHub\CSE-BulletStudio\BulletProject101
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -680,6 +808,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -690,6 +821,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 06710000
     m_LastClickedID: 28934
     m_ExpandedIDs: 00000000ca700000cc700000ce700000d0700000f4700000f8700000fe700000
@@ -702,11 +834,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     m_SelectedIDs: 7c700000
     m_LastClickedID: 28796
     m_ExpandedIDs: 00000000406e0000426e0000446e0000466e0000486e00004a6e000052700000
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -741,6 +878,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000f4350000
 =======
     m_ExpandedIDs: 00000000ca700000cc700000ce700000d0700000
@@ -748,6 +886,12 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000ca700000cc700000ce700000d0700000
 >>>>>>> parent of 2a5cad5 (Fixes)
+=======
+    m_ExpandedIDs: 00000000f4350000
+=======
+    m_ExpandedIDs: 00000000406e0000426e0000446e0000466e0000486e00004a6e0000
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
     m_ExpandedIDs: 00000000f4350000
 =======
@@ -805,7 +949,11 @@ MonoBehaviour:
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 0}
+=======
+      m_ClientGUIView: {fileID: 5}
+>>>>>>> parent of 7002ff9 (test)
 =======
       m_ClientGUIView: {fileID: 5}
 >>>>>>> parent of 7002ff9 (test)
@@ -847,6 +995,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -856,6 +1007,7 @@ MonoBehaviour:
     width: 284
     height: 644
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -868,12 +1020,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     x: 1282
     y: 73
     width: 637
     height: 966
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -920,12 +1077,15 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 73
     width: 314
     height: 563
 >>>>>>> parent of 2a5cad5 (Fixes)
 =======
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
     m_Tooltip: 
@@ -937,6 +1097,9 @@ MonoBehaviour:
     height: 563
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -948,6 +1111,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -958,6 +1124,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: cab2ffffeab3ffff9aceffffb2d4ffff98e3ffffdcebffff24eeffffd0eeffffb4f3ffff26fbffff
@@ -970,11 +1137,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
       m_SelectedIDs: 1c6d0000
       m_LastClickedID: 27932
       m_ExpandedIDs: 26fbffff646d0000906d0000
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -999,8 +1171,14 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 0}
       m_SearchString:
+=======
+        m_ClientGUIView: {fileID: 4}
+      m_SearchString: 
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -1041,6 +1219,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1049,6 +1230,7 @@ MonoBehaviour:
     y: 332.5
     width: 691
     height: 373
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1062,6 +1244,8 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
 =======
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
   m_ViewDataDictionary: {fileID: 0}
@@ -1319,6 +1503,9 @@ MonoBehaviour:
       layout: 4
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1336,6 +1523,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1346,6 +1536,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.051896617, y: 1.5272871, z: 4.0601573}
     speed: 2
     m_Value: {x: 0.051896617, y: 1.5272871, z: 4.0601573}
@@ -1355,6 +1546,12 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.051896617, y: 1.5272871, z: 4.0601573}
 >>>>>>> parent of 2a5cad5 (Fixes)
+=======
+    m_Target: {x: 1.2552421, y: 0.40313566, z: 1.794913}
+    speed: 2
+    m_Value: {x: 1.2552421, y: 0.40313566, z: 1.794913}
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
     m_Target: {x: 1.2552421, y: 0.40313566, z: 1.794913}
     speed: 2
@@ -1420,6 +1617,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1430,6 +1630,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 8.406235
     speed: 2
     m_Value: 8.406235
@@ -1439,6 +1640,12 @@ MonoBehaviour:
     speed: 2
     m_Value: 8.406235
 >>>>>>> parent of 2a5cad5 (Fixes)
+=======
+    m_Target: 13.652391
+    speed: 2
+    m_Value: 13.652391
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
 =======
     m_Target: 13.652391
     speed: 2
@@ -1499,6 +1706,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1508,6 +1718,7 @@ MonoBehaviour:
     width: 1532
     height: 790
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1520,12 +1731,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     x: 264
     y: 73
     width: 1016
     height: 563
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1536,6 +1752,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1558,6 +1775,12 @@ MonoBehaviour:
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+  m_TargetSize: {x: 640, y: 480}
+=======
+  m_TargetSize: {x: 1016, y: 542}
+>>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
+>>>>>>> parent of 7002ff9 (test)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -1576,6 +1799,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1585,6 +1811,7 @@ MonoBehaviour:
     m_VBaseRangeMin: -395
     m_VBaseRangeMax: 395
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1597,12 +1824,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
     m_HBaseRangeMin: -508
     m_HBaseRangeMax: 508
     m_VBaseRangeMin: -271
     m_VBaseRangeMax: 271
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1632,6 +1864,7 @@ MonoBehaviour:
       y: 21
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1004
       height: 542
     m_Scale: {x: 1, y: 1}
@@ -1643,12 +1876,17 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
       width: 1016
       height: 542
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 508, y: 271}
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1662,6 +1900,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -1674,6 +1915,7 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -1692,6 +1934,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
+=======
+>>>>>>> parent of 7002ff9 (test)
       x: -508
       y: -271
       width: 1016
@@ -1701,6 +1945,9 @@ MonoBehaviour:
   m_LastWindowPixelSize: {x: 1016, y: 563}
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1736,8 +1983,12 @@ MonoBehaviour:
     height: 250
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+=======
+>>>>>>> parent of 7002ff9 (test)
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1750,6 +2001,9 @@ MonoBehaviour:
     height: 382
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7002ff9 (test)
+=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
