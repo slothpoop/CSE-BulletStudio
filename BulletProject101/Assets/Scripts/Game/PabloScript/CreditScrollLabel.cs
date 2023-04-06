@@ -7,7 +7,7 @@ public class CreditScrollLabel : MonoBehaviour
 {
     float speed = 100.0f;
     float textPosBegin = -400.0f;
-    float boundaryTextEnd = 700.0f;
+    float boundaryTextEnd = 250.0f;
 
     RectTransform myGorectTransform;
     [SerializeField]
