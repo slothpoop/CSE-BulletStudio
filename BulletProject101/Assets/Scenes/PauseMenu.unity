@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7d91dfe90e1361479ecf312c87dfe9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PauseMenuCanvas: {fileID: 1240601866}
+  PauseCanvas: {fileID: 1240601866}
 --- !u!4 &307270012
 Transform:
   m_ObjectHideFlags: 0
