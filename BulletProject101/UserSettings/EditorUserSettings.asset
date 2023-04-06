@@ -5,12 +5,9 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
-<<<<<<< HEAD
     RecentlyUsedSceneGuid-0:
       value: 5a07000757010f0e5808547541720c4415154d79742d25352e794b31e1e5306e
       flags: 0
-=======
->>>>>>> parent of 9de05a0 (test 3)
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
