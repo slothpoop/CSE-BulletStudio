@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainText: {fileID: 0}
-  isLooping: 0
+  isLooping: 1
 --- !u!1 &260129311
 GameObject:
   m_ObjectHideFlags: 0
@@ -4039,7 +4039,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainText: {fileID: 0}
-  isLooping: 0
+  isLooping: 1
 --- !u!1 &1529875617
 GameObject:
   m_ObjectHideFlags: 0
