@@ -14,39 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    x: 0
->>>>>>> parent of cb98684 (Revert "test")
     y: 42.666668
     width: 1504
     height: 960
 =======
-<<<<<<< HEAD
     y: 43
     width: 1920
     height: 1037
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
   m_ShowMode: 4
   m_Title: Scene
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 2249
-    y: 302.5
-    width: 1206
-    height: 715
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-  m_ShowMode: 4
-  m_Title: Hierarchy
->>>>>>> parent of cb98684 (Revert "test")
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -71,7 +50,6 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 1504
     height: 910
   m_MinSize: {x: 503, y: 321}
@@ -86,28 +64,6 @@ MonoBehaviour:
   vertical: 0
   controlID: 50
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    width: 1504
-    height: 910
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 32
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    width: 1206
-    height: 665
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
-  vertical: 0
-  controlID: 119
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +80,6 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
     x: 1148.6666
     y: 0
     width: 355.33337
@@ -135,18 +90,6 @@ MonoBehaviour:
     width: 454
     height: 987
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    x: 1148.6666
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 921
->>>>>>> parent of d236ab3 (pause menu update)
-    y: 0
-    width: 355.33337
-    height: 910
->>>>>>> parent of cb98684 (Revert "test")
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -172,7 +115,6 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 284
     height: 540
   m_MinSize: {x: 200, y: 200}
@@ -180,19 +122,6 @@ MonoBehaviour:
 =======
     width: 363
     height: 584
-=======
-<<<<<<< HEAD
-    width: 284
-    height: 538.6667
-=======
-    width: 228
-    height: 394
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    width: 228
-    height: 394
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
@@ -218,7 +147,6 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     y: 540
     width: 1148.6666
     height: 370
@@ -227,22 +155,6 @@ MonoBehaviour:
     width: 1466
     height: 403
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    y: 538.6667
-    width: 1148.6666
-    height: 371.3333
-=======
-    y: 394
-    width: 921
-    height: 271
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    y: 394
-    width: 921
-    height: 271
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -272,26 +184,12 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 1504
     height: 960
 =======
     width: 1920
     height: 1037
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    width: 1504
-    height: 960
-=======
-    width: 1206
-    height: 715
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    width: 1206
-    height: 715
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -316,21 +214,10 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 1504
 =======
     width: 1920
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    width: 1504
-=======
-    width: 1206
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    width: 1206
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -352,26 +239,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     y: 940
     width: 1504
 =======
     y: 1017
     width: 1920
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    y: 940
-    width: 1504
-=======
-    y: 695
-    width: 1206
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    y: 695
-    width: 1206
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -395,7 +268,6 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 1148.6666
     height: 910
   m_MinSize: {x: 403, y: 321}
@@ -410,28 +282,6 @@ MonoBehaviour:
   vertical: 1
   controlID: 51
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    width: 1148.6666
-    height: 910
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 16
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    width: 921
-    height: 665
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
-  vertical: 1
-  controlID: 92
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -452,7 +302,6 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     width: 1148.6666
     height: 540
   m_MinSize: {x: 403, y: 221}
@@ -467,28 +316,6 @@ MonoBehaviour:
   vertical: 0
   controlID: 52
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    width: 1148.6666
-    height: 538.6667
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 17
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    width: 921
-    height: 394
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
-  vertical: 0
-  controlID: 93
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -499,16 +326,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
   m_Name: SceneView
-=======
-  m_Name: GameView
->>>>>>> parent of cb98684 (Revert "test")
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
 <<<<<<< HEAD
     x: 284
     y: 0
@@ -520,32 +342,14 @@ MonoBehaviour:
     width: 1103
     height: 584
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    x: 284
-    y: 0
-    width: 864.6666
-    height: 538.6667
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 228
-    y: 0
-    width: 693
-    height: 394
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 16}
+  m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -562,7 +366,6 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
 =======
@@ -581,32 +384,6 @@ MonoBehaviour:
     width: 1465
     height: 382
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 611.3334
-    width: 1147.6666
-    height: 350.3333
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip:
-  m_Pos:
-    serializedVersion: 2
-    x: 2249
-    y: 726.5
-    width: 920
-    height: 250
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -624,19 +401,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
     - Assets/Scenes
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    - Assets/Scripts/Game/PabloScript
-=======
-    - Assets
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-    - Assets
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
@@ -645,32 +410,14 @@ MonoBehaviour:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LastProjectPath: C:\Users\geezb\OneDrive\Desktop\CSE Project\CSE-BulletStudio\BulletProject101
 =======
   m_LastProjectPath: C:\Users\Pablo\Documents\GitHub\CSE-BulletStudio\BulletProject101
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-  - Assets/Scripts/Game/PabloScript
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\geezb\OneDrive\Desktop\CSE Project\CSE-BulletStudio\BulletProject101
-=======
-  - Assets
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: U:\layout
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-  - Assets
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: U:\layout
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 76710000
     m_LastClickedID: 29046
@@ -680,25 +427,6 @@ MonoBehaviour:
     m_LastClickedID: 28534
     m_ExpandedIDs: 00000000686d00006a6d00006c6d00006e6d0000786f0000e26f0000
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: 986f0000
-    m_LastClickedID: 28568
-    m_ExpandedIDs: 00000000886d00008a6d00008c6d000000ca9a3b
-=======
-    m_SelectedIDs: f4350000
-    m_LastClickedID: 13812
-    m_ExpandedIDs: 00000000f435000000ca9a3b
->>>>>>> parent of d236ab3 (pause menu update)
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-=======
-    m_SelectedIDs: f4350000
-    m_LastClickedID: 13812
-    m_ExpandedIDs: 00000000f435000000ca9a3b
->>>>>>> parent of cb98684 (Revert "test")
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -727,14 +455,10 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_ExpandedIDs: 00000000647100006671000068710000
 =======
     m_ExpandedIDs: 00000000686d00006a6d00006c6d00006e6d0000706d0000
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-    m_ExpandedIDs: 00000000f4350000
->>>>>>> parent of cb98684 (Revert "test")
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -769,82 +493,6 @@ MonoBehaviour:
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-<<<<<<< HEAD
-      m_Name: 
-      m_OriginalName: 
-=======
-      m_Name:
-      m_OriginalName:
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 1
-<<<<<<< HEAD
-      m_ClientGUIView: {fileID: 0}
-=======
-<<<<<<< HEAD
-      m_ClientGUIView: {fileID: 5}
-    m_SearchString: 
-=======
-      m_ClientGUIView: {fileID: 0}
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
-    m_CreateAssetUtility:
-      m_EndAction: {fileID: 0}
-      m_InstanceID: 0
-      m_Path: 
-      m_Icon: {fileID: 0}
-      m_ResourceFile: 
-<<<<<<< HEAD
-=======
-  m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000886d00008a6d00008c6d0000
-=======
-    m_ExpandedIDs: 00000000f4350000
->>>>>>> parent of d236ab3 (pause menu update)
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
-    m_SearchString: 
-    m_CreateAssetUtility:
-      m_EndAction: {fileID: 0}
-      m_InstanceID: 0
-      m_Path: 
-      m_Icon: {fileID: 0}
-      m_ResourceFile: 
-  m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
       m_Name: 
       m_OriginalName: 
       m_EditFieldRect:
@@ -865,7 +513,6 @@ MonoBehaviour:
       m_Path: 
       m_Icon: {fileID: 0}
       m_ResourceFile: 
->>>>>>> parent of cb98684 (Revert "test")
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
@@ -888,23 +535,14 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Inspector
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of cb98684 (Revert "test")
     m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of cb98684 (Revert "test")
     x: 1148.6667
     y: 72.66667
     width: 354.33337
     height: 889
-<<<<<<< HEAD
 =======
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
@@ -915,19 +553,6 @@ MonoBehaviour:
     width: 453
     height: 966
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 3170
-    y: 332.5
-    width: 284
-    height: 644
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -962,7 +587,6 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Hierarchy
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
 =======
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
@@ -980,32 +604,6 @@ MonoBehaviour:
     width: 362
     height: 563
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 72.66667
-    width: 283
-    height: 517.6667
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip:
-  m_Pos:
-    serializedVersion: 2
-    x: 2249
-    y: 332.5
-    width: 227
-    height: 373
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1013,7 +611,6 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
       m_SelectedIDs: d67d0000
       m_LastClickedID: 0
 <<<<<<< HEAD
@@ -1021,23 +618,6 @@ MonoBehaviour:
 =======
       m_ExpandedIDs: 6ed1ffff5cf5ffffbef6ffff9af7ffff26fbffff9c6f0000
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      m_SelectedIDs: f40b0100
-      m_LastClickedID: 68596
-      m_ExpandedIDs: 4abcffffe8bcffffc0c0ffff64c1ffff9ac6ffffd0caffff7acbffff24ccffffa8d1ffff54d6ffff06d7ffff52d8ffff32d9ffff5cdfffffe2e0ffff36e8ffffcce8ffff42e9fffff4e9ffff6eeaffff3aebffffaaebffff2cecffff04edffffceedffff9aeeffff22f5ffff24fbffff
-=======
-      m_SelectedIDs:
-      m_LastClickedID: 0
-      m_ExpandedIDs: 42fbffff
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-      m_SelectedIDs:
-      m_LastClickedID: 0
-      m_ExpandedIDs: 42fbffff
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1054,26 +634,11 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
         m_ClientGUIView: {fileID: 0}
 =======
-=======
-<<<<<<< HEAD
->>>>>>> parent of cb98684 (Revert "test")
         m_ClientGUIView: {fileID: 4}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
       m_SearchString: 
-<<<<<<< HEAD
-=======
-=======
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString:
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-        m_ClientGUIView: {fileID: 0}
-      m_SearchString:
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
     m_LockTracker:
@@ -1097,14 +662,10 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Scene
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of cb98684 (Revert "test")
     m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 284
     y: 72.66667
     width: 862.6666
@@ -1119,14 +680,6 @@ MonoBehaviour:
     width: 1101
     height: 563
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    x: 284
-    y: 72.66667
-    width: 862.6666
-    height: 517.6667
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1138,14 +691,10 @@ MonoBehaviour:
       displayed: 1
       snapOffset: {x: 0, y: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
       snapOffsetDelta: {x: -98.66669, y: -26}
 =======
       snapOffsetDelta: {x: -101, y: -26}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-      snapOffsetDelta: {x: -98.66669, y: -26}
->>>>>>> parent of cb98684 (Revert "test")
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -1188,7 +737,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 24.666666}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -1381,22 +930,6 @@ MonoBehaviour:
       id: Scene View/Tilemap Focus
       index: 3
       layout: 4
-<<<<<<< HEAD
-=======
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 2477
-    y: 332.5
-    width: 691
-    height: 373
-  m_ViewDataDictionary: {fileID: 0}
-  m_ShowContextualTools: 0
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
@@ -1408,27 +941,14 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
-<<<<<<< HEAD
-    m_Target: {x: 3.172358, y: 0.8789565, z: -0.083355606}
-    speed: 2
-    m_Value: {x: 3.172358, y: 0.8789565, z: -0.083355606}
-=======
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
->>>>>>> parent of d236ab3 (pause menu update)
 =======
-<<<<<<< HEAD
     m_Target: {x: 140.88231, y: 164.76027, z: 9.991081}
     speed: 2
     m_Value: {x: 140.88231, y: 164.76027, z: 9.991081}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-    m_Target: {x: 0, y: 0, z: 0}
-    speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1480,27 +1000,14 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
-<<<<<<< HEAD
-    m_Target: 9.46733
-    speed: 2
-    m_Value: 9.46733
-=======
     m_Target: 10
     speed: 2
     m_Value: 10
->>>>>>> parent of d236ab3 (pause menu update)
 =======
-<<<<<<< HEAD
     m_Target: 387.17792
     speed: 2
     m_Value: 387.17792
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-    m_Target: 10
-    speed: 2
-    m_Value: 10
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1542,14 +1049,10 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Game
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of cb98684 (Revert "test")
     m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 284
     y: 72.66667
     width: 862.6666
@@ -1564,25 +1067,6 @@ MonoBehaviour:
     width: 1101
     height: 563
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    x: 284
-    y: 72.66667
-    width: 862.6666
-    height: 517.6667
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    x: 507
-    y: 94
-    width: 1532
-    height: 790
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -1594,21 +1078,10 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_TargetSize: {x: 862.6666, y: 498}
 =======
   m_TargetSize: {x: 1101, y: 542}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-  m_TargetSize: {x: 862.6666, y: 496.6667}
-=======
-  m_TargetSize: {x: 640, y: 480}
->>>>>>> parent of d236ab3 (pause menu update)
-=======
-  m_TargetSize: {x: 640, y: 480}
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1624,7 +1097,6 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_HBaseRangeMin: -287.55554
     m_HBaseRangeMax: 287.55554
     m_VBaseRangeMin: -166
@@ -1635,24 +1107,6 @@ MonoBehaviour:
     m_VBaseRangeMin: -271
     m_VBaseRangeMax: 271
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-    m_HBaseRangeMin: -287.55554
-    m_HBaseRangeMax: 287.55554
-    m_VBaseRangeMin: -165.55557
-    m_VBaseRangeMax: 165.55557
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    m_HBaseRangeMin: -766
-    m_HBaseRangeMax: 766
-    m_VBaseRangeMin: -395
-    m_VBaseRangeMax: 395
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1669,7 +1123,6 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-<<<<<<< HEAD
       y: 21
 <<<<<<< HEAD
       width: 862.6666
@@ -1682,34 +1135,12 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 550.5, y: 271}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-      y: 21
-      width: 862.6666
-      height: 496.6667
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 431.3333, y: 248.33334}
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-      y: 0
-      width: 1532
-      height: 790
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 766, y: 395}
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< HEAD
 <<<<<<< HEAD
       x: -431.3333
       y: -249
@@ -1727,30 +1158,6 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1101, y: 563}
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
-<<<<<<< HEAD
-      x: -431.3333
-      y: -248.33334
-      width: 862.6666
-      height: 496.6667
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1294, y: 776.5}
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-      x: -766
-      y: -395
-      width: 1532
-      height: 790
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1532, y: 790}
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1773,35 +1180,15 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Console
 <<<<<<< HEAD
-<<<<<<< HEAD
     m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
-=======
-<<<<<<< HEAD
-    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 611.3334
-    width: 1147.6666
-    height: 350.3333
-=======
-=======
->>>>>>> parent of d236ab3 (pause menu update)
-    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip:
->>>>>>> parent of cb98684 (Revert "test")
   m_Pos:
     serializedVersion: 2
     x: 2249
     y: 726.5
     width: 920
     height: 250
-<<<<<<< HEAD
->>>>>>> parent of d236ab3 (pause menu update)
 =======
-<<<<<<< HEAD
     m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1811,9 +1198,6 @@ MonoBehaviour:
     width: 1465
     height: 382
 >>>>>>> 8102ed24f05058cabef0910900fe3c1098de38a4
-=======
->>>>>>> parent of d236ab3 (pause menu update)
->>>>>>> parent of cb98684 (Revert "test")
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
