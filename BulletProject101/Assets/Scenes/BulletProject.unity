@@ -202,7 +202,6 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 3
 =======
   m_RootOrder: 5
@@ -210,12 +209,6 @@ Transform:
 =======
   m_RootOrder: 5
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
-  m_RootOrder: 3
-=======
-  m_RootOrder: 7
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
->>>>>>> parent of 7002ff9 (test)
 =======
   m_RootOrder: 3
 =======
@@ -331,13 +324,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   health: 5
-=======
-  maxHealth: 10
-  currentHealth: 0
-  healthBar: {fileID: 127948606}
->>>>>>> parent of 7002ff9 (test)
 =======
   maxHealth: 10
   currentHealth: 0
@@ -363,10 +350,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -444,7 +428,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
@@ -452,16 +435,11 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 7002ff9 (test)
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -495,10 +473,7 @@ Canvas:
   m_TargetDisplay: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -585,13 +560,8 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-=======
-  m_LocalPosition: {x: 0.0176, y: 0, z: 0}
-  m_LocalScale: {x: 1.0611107, y: 1, z: 1}
->>>>>>> parent of 7002ff9 (test)
 =======
   m_LocalPosition: {x: 0.0176, y: 0, z: 0}
   m_LocalScale: {x: 1.0611107, y: 1, z: 1}
@@ -608,7 +578,6 @@ Transform:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1.0393802, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -624,10 +593,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
-  m_RootOrder: 8
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
->>>>>>> parent of 7002ff9 (test)
 =======
   m_RootOrder: 8
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
@@ -750,11 +715,8 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -952,9 +914,6 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -967,11 +926,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 8
-=======
-  m_RootOrder: 10
->>>>>>> parent of 7002ff9 (test)
 =======
   m_RootOrder: 10
 >>>>>>> parent of 7002ff9 (test)
@@ -1029,7 +984,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
@@ -1037,16 +991,11 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 7002ff9 (test)
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1142,13 +1091,8 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -400, y: -90}
   m_SizeDelta: {x: 200, y: 40}
-=======
-  m_AnchoredPosition: {x: -706, y: -137}
-  m_SizeDelta: {x: 325, y: 75}
->>>>>>> parent of 7002ff9 (test)
 =======
   m_AnchoredPosition: {x: -706, y: -137}
   m_SizeDelta: {x: 325, y: 75}
@@ -1297,11 +1241,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_RootOrder: 7
-=======
-  m_RootOrder: 9
->>>>>>> parent of 7002ff9 (test)
 =======
   m_RootOrder: 9
 >>>>>>> parent of 7002ff9 (test)
@@ -1348,13 +1288,8 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -400, y: -30}
   m_SizeDelta: {x: 200, y: 40}
-=======
-  m_AnchoredPosition: {x: -706, y: -37.5}
-  m_SizeDelta: {x: 325, y: 75}
->>>>>>> parent of 7002ff9 (test)
 =======
   m_AnchoredPosition: {x: -706, y: -37.5}
   m_SizeDelta: {x: 325, y: 75}
@@ -1460,11 +1395,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
@@ -1504,11 +1435,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -1944,10 +1872,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 --- !u!20 &519420031
@@ -2086,9 +2011,6 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -2201,7 +2123,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2329,54 +2250,11 @@ RectTransform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 7002ff9 (test)
-=======
-  m_RootOrder: 2
-=======
-  m_RootOrder: 6
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &691958222
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 691958223}
-  - component: {fileID: 691958225}
-  - component: {fileID: 691958224}
-  m_Layer: 0
-  m_Name: OptionsLabel
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &691958223
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 691958222}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 48249348}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> parent of 7002ff9 (test)
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -690, y: 390}
   m_SizeDelta: {x: 500, y: 110}
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -2432,13 +2310,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 50
   m_fontSizeBase: 50
-=======
-  m_fontSize: 125
-  m_fontSizeBase: 125
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 125
   m_fontSizeBase: 125
@@ -2582,13 +2455,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 24
   m_fontSizeBase: 24
-=======
-  m_fontSize: 50
-  m_fontSizeBase: 50
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 50
   m_fontSizeBase: 50
@@ -2732,13 +2600,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 24
   m_fontSizeBase: 24
-=======
-  m_fontSize: 50
-  m_fontSizeBase: 50
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 50
   m_fontSizeBase: 50
@@ -2810,11 +2673,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
       value: 11
-=======
-      value: 4
->>>>>>> parent of 7002ff9 (test)
 =======
       value: 4
 >>>>>>> parent of 7002ff9 (test)
@@ -2882,10 +2741,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 763549ae583111c4092d95033beb0d64, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -3083,10 +2939,7 @@ AudioSource:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -3130,13 +2983,8 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -400, y: -150}
   m_SizeDelta: {x: 200, y: 40}
-=======
-  m_AnchoredPosition: {x: -706, y: -240}
-  m_SizeDelta: {x: 325, y: 75}
->>>>>>> parent of 7002ff9 (test)
 =======
   m_AnchoredPosition: {x: -706, y: -240}
   m_SizeDelta: {x: 325, y: 75}
@@ -3254,10 +3102,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -3365,11 +3210,7 @@ AudioSource:
     m_RotationOrder: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 --- !u!114 &1356841661
-=======
---- !u!114 &1356841667
->>>>>>> parent of 7002ff9 (test)
 =======
 --- !u!114 &1356841667
 >>>>>>> parent of 7002ff9 (test)
@@ -3390,10 +3231,7 @@ MonoBehaviour:
   health: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 --- !u!1 &1381233899
@@ -3587,9 +3425,6 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -3685,15 +3520,12 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   m_LocalPosition: {x: 592.2295, y: 272.91055, z: 6.1772385}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
 =======
@@ -3751,7 +3583,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 1945036078088191517}
@@ -3927,15 +3758,12 @@ RectTransform:
   m_Children:
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 7002ff9 (test)
   - {fileID: 1945036078088191517}
   - {fileID: 1794475335}
   - {fileID: 107933973}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3964,8 +3792,6 @@ RectTransform:
 >>>>>>> parent of 7002ff9 (test)
 =======
 =======
->>>>>>> parent of 7002ff9 (test)
-=======
   - {fileID: 768215953}
   m_Father: {fileID: 146363447}
   m_RootOrder: 3
@@ -3976,9 +3802,6 @@ RectTransform:
   m_SizeDelta: {x: 325, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1618167408
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3987,9 +3810,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
   m_GameObject: {fileID: 1618167406}
@@ -4131,7 +3951,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1673545793}
   m_Enabled: 1
@@ -4139,8 +3958,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -4181,13 +3998,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 24
   m_fontSizeBase: 24
-=======
-  m_fontSize: 50
-  m_fontSizeBase: 50
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 50
   m_fontSizeBase: 50
@@ -4360,11 +4172,7 @@ AudioSource:
     m_RotationOrder: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
@@ -4541,10 +4349,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
   m_GameObject: {fileID: 1822379470}
@@ -4554,9 +4359,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -4623,7 +4425,6 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -400, y: 204}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -4632,17 +4433,12 @@ RectTransform:
 =======
 =======
 >>>>>>> parent of 7002ff9 (test)
-=======
->>>>>>> parent of 7002ff9 (test)
   m_AnchoredPosition: {x: -690, y: 390}
   m_SizeDelta: {x: 500, y: 110}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1871757983
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -4665,10 +4461,7 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
   m_GameObject: {fileID: 1871757981}
@@ -4678,9 +4471,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> parent of 7002ff9 (test)
-=======
 >>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> parent of 7002ff9 (test)
@@ -4721,13 +4511,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 50
   m_fontSizeBase: 50
-=======
-  m_fontSize: 125
-  m_fontSizeBase: 125
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 125
   m_fontSizeBase: 125
@@ -4772,11 +4557,7 @@ MonoBehaviour:
   m_pageToDisplay: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_margin: {x: 0, y: 0, z: 0, w: 0}
-=======
-  m_margin: {x: 0, y: 0, z: -443.13467, w: 0}
->>>>>>> parent of 7002ff9 (test)
 =======
   m_margin: {x: 0, y: 0, z: -443.13467, w: 0}
 >>>>>>> parent of 7002ff9 (test)
@@ -4883,13 +4664,8 @@ MonoBehaviour:
     rgba: 4294967295
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
   m_fontSize: 24
   m_fontSizeBase: 24
-=======
-  m_fontSize: 50
-  m_fontSizeBase: 50
->>>>>>> parent of 7002ff9 (test)
 =======
   m_fontSize: 50
   m_fontSizeBase: 50
@@ -5024,11 +4800,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 >>>>>>> parent of 2a5cad5 (Fixes)
-=======
->>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
->>>>>>> parent of 7002ff9 (test)
 =======
 >>>>>>> 2a5cad566c5f2ec62e5ca79530fc1e309b173624
 >>>>>>> parent of 7002ff9 (test)
