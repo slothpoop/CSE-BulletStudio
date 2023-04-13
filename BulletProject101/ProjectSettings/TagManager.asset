@@ -57,3 +57,6 @@ TagManager:
   - name: Enemy1
     uniqueID: 3570838871
     locked: 0
+  - name: Spawners
+    uniqueID: 1306527887
+    locked: 0

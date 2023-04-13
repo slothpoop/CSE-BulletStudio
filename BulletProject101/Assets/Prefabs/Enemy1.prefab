@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1945036076468780812}
   - component: {fileID: 5632196554091922066}
   - component: {fileID: 6422508844840903133}
-  - component: {fileID: -6653033547542835420}
+  - component: {fileID: 5866328372588511248}
   m_Layer: 0
   m_Name: Enemy1
   m_TagString: Untagged
@@ -44,7 +44,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1945036076468780819}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -67,7 +67,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -86,12 +86,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 2
+  speed: 3
   amplitude: 0
   period: 0
   shift: 0
   yChange: 0
---- !u!114 &-6653033547542835420
+--- !u!114 &5866328372588511248
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -100,10 +100,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1945036076468780819}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 16a9cf159755f4c41a39aa3867999c10, type: 3}
+  m_Script: {fileID: 11500000, guid: 3315413f73c67bf4da7b4f8052b1e541, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerAwarenessDistance: 0
+  health: 1
 --- !u!1 &1945036078042034156
 GameObject:
   m_ObjectHideFlags: 0
