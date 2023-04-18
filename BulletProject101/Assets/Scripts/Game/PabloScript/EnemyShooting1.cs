@@ -7,25 +7,33 @@ public class EnemyShooting1 : MonoBehaviour
     
     public Transform gunpoint;
     public GameObject enemyBullet;
-    public float enemyBulletSpawnTime = 0.5f;
 
+    public float shootSpeed;
+    private float shootSpeedTime;
 
     void Start()
     {
-        StartCoroutine(EnemyShooting());
+        shootSpeedTime = shootSpeed;
     }
 
-    void EnemyFire()
+    void Update()
     {
-        Instantiate(enemyBullet, gunpoint.position, Quaternion.identity);
-        
+        if (shootSpeedTime <= 0)
+        {
+            Shoot();
+            shootSpeedTime = shootSpeed;
+        }
+        else
+        {
+            shootSpeedTime -= Time.deltaTime;
+        }
     }
 
-    IEnumerator EnemyShooting()
+
+    void Shoot()
     {
-        yield return new WaitForSeconds(enemyBulletSpawnTime);
-        EnemyFire();
+        GameObject bulletGO = Instantiate(enemyBullet, gunpoint.position, gunpoint.rotation) as GameObject;
+        Destroy (bulletGO, 5f);
     }
-
 }
 

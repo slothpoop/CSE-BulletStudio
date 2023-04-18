@@ -119,7 +119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 3
+  speed: 2
   amplitude: 0
   period: 0
   shift: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gunpoint: {fileID: 1145388722}
   enemyBullet: {fileID: 1553242939711653432, guid: 3cde5058747a5694da84e6e5cfb741d9, type: 3}
-  enemyBulletSpawnTime: 0.5
+  shootSpeed: 1
 --- !u!1 &1945036078042034156
 GameObject:
   m_ObjectHideFlags: 0
