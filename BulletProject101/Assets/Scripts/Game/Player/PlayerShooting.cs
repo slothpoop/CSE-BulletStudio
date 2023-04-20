@@ -20,6 +20,7 @@ public class PlayerShooting : MonoBehaviour
     private bool _fireContinuously;
     private float _lastFireTime;
 
+
     void Update()
     {
         if (_fireContinuously)
