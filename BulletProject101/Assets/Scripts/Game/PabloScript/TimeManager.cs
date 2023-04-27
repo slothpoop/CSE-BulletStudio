@@ -12,8 +12,10 @@ public class TimeManager : MonoBehaviour
 
     private Text theText;
 
+    //Calls PauseMenu functions
     private PauseMenu thePauseMenu;
 
+    //Calls Level Complete Screen 
     public GameObject LevelComplete;
 
     void Start()
@@ -31,20 +33,35 @@ public class TimeManager : MonoBehaviour
 
     void Update()
     {
+        //If Paused then timer stops until it resumes
         if (thePauseMenu.Paused)
             return;
 
-
-        countingTime -= Time.deltaTime;
-        
-        if (countingTime <= 0)
+        if (countingTime > 0)
+        {
+            countingTime -= Time.deltaTime;
+            DisplayTime(countingTime);
+        }
+        //Ends level when counter reaches zero
+        else
         {
             countingTime = 0;
             Time.timeScale = 0f;
             LevelComplete.SetActive(true);
         }
 
-        theText.text = "" + Mathf.Round(countingTime);
+        //Rounds to whole numbers
+        //theText.text = "" + Mathf.Round(countingTime);
 
+    }
+
+    void DisplayTime(float timeToDisplay)
+    {
+        timeToDisplay += 1;
+        
+        float minutes = Mathf.FloorToInt(timeToDisplay / 60);
+        float seconds = Mathf.FloorToInt(timeToDisplay % 60);
+
+        theText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
     }
 }
