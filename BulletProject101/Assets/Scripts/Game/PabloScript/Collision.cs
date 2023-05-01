@@ -10,6 +10,9 @@ public class Collision : MonoBehaviour
 
     public HealthBar1 healthBar;
 
+    private bool isDead;
+    public PauseMenu gameManager;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -27,8 +30,11 @@ public class Collision : MonoBehaviour
 
     //Update when collision happens, checks if health is 0 
     void Update() {
-        if (currentHealth <= 0) {
+        if (currentHealth <= 0 && !isDead) {
+            isDead = true;
+            gameObject.SetActive(false);
             Die();
+            gameManager.gameOver();
         }
     }
 

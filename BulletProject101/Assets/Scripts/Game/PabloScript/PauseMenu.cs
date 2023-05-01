@@ -7,6 +7,8 @@ public class PauseMenu : MonoBehaviour
 {
     public bool Paused = false;
     public GameObject PauseCanvas;
+    public GameObject GameOverCanvas;
+
 
     void Start()
     {
@@ -49,7 +51,12 @@ public class PauseMenu : MonoBehaviour
 
     public void NextLevelButton()
     {
-        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    public void gameOver()
+    {
+        GameOverCanvas.SetActive(true);
+        Time.timeScale = 0f;
     }
 }
