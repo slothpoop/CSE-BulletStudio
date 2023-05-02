@@ -5,8 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public static bool Paused = false;
+    public bool Paused = false;
     public GameObject PauseCanvas;
+    public GameObject GameOverCanvas;
+
 
     void Start()
     {
@@ -44,6 +46,17 @@ public class PauseMenu : MonoBehaviour
 
     public void MainMenuButton()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene("MainMenu");
+    }
+
+    public void NextLevelButton()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
+    public void gameOver()
+    {
+        GameOverCanvas.SetActive(true);
+        Time.timeScale = 0f;
     }
 }
