@@ -7,7 +7,7 @@ public class CreditScroll : MonoBehaviour
 {
     float speed = 100.0f;
     float textPosBegin = -470.0f;
-    float boundaryTextEnd = 175.0f;
+    float boundaryTextEnd = 1000.0f;
 
     RectTransform myGorectTransform;
     [SerializeField]

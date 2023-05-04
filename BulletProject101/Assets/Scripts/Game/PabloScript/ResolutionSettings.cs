@@ -18,6 +18,5 @@ public class ResolutionSettings : MonoBehaviour
     public void SetFullscreen (bool _fullscreen)
     {
         Screen.fullScreen = _fullscreen;
-
     }
 }
