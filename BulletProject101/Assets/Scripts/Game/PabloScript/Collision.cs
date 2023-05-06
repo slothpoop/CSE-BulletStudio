@@ -5,7 +5,7 @@ using UnityEngine;
 public class Collision : MonoBehaviour
 {
     //Health can be changed on Unity
-    public int maxHealth = 100;
+    public int maxHealth = 10;
     public int currentHealth;
 
     public HealthBar1 healthBar;
