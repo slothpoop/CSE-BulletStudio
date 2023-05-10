@@ -2980,7 +2980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0d0c75060dbf0846bfdf89b234c3126, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTime: 5
+  startTime: 120
   LevelComplete: {fileID: 1857346111}
 --- !u!114 &1020512202
 MonoBehaviour:

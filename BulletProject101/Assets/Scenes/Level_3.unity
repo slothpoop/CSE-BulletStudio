@@ -156,8 +156,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7e05e351d3ece8419f3992f226a24c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 7
   positions:
+  - {x: 0, y: 3.5, z: 0}
   - {x: -7, y: 3.5, z: 0}
   - {x: 7, y: 3.5, z: 0}
 --- !u!1 &17463522
@@ -7444,7 +7445,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568577, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: shootSpeed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568577, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
@@ -7464,11 +7465,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.5
+      value: 7.9
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7552,7 +7553,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568588, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: shootSpeed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568588, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
@@ -7564,7 +7565,7 @@ PrefabInstance:
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
     - target: {fileID: 8820520482109568590, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: shootSpeed
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568590, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
@@ -7576,4 +7577,5 @@ PrefabInstance:
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
     m_RemovedComponents:
     - {fileID: 8820520482109568583, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
+    - {fileID: 8820520482109568587, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
