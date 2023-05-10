@@ -144,6 +144,22 @@ MonoBehaviour:
   currentHealth: 0
   healthBar: {fileID: 969427414}
   LevelComplete: {fileID: 1857346111}
+--- !u!114 &11523378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 11523364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7e05e351d3ece8419f3992f226a24c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  positions:
+  - {x: -7, y: 3.5, z: 0}
+  - {x: 7, y: 3.5, z: 0}
 --- !u!1 &17463522
 GameObject:
   m_ObjectHideFlags: 0
@@ -7427,6 +7443,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568577, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
+      propertyPath: shootSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820520482109568577, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
       value: 
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
@@ -7444,15 +7464,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.3
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.009400025
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568578, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7526,6 +7546,14 @@ PrefabInstance:
       propertyPath: amplitude
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 8820520482109568587, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820520482109568588, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
+      propertyPath: shootSpeed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8820520482109568588, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
       value: 
@@ -7535,6 +7563,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
     - target: {fileID: 8820520482109568590, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
+      propertyPath: shootSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8820520482109568590, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
       propertyPath: enemyBullet
       value: 
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
@@ -7542,5 +7574,6 @@ PrefabInstance:
       propertyPath: enemyBullet
       value: 
       objectReference: {fileID: 1553242939711653432, guid: 2aa40dcc9c2114e40abf21eed7f6f0f6, type: 3}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8820520482109568583, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dcd72031920b5c34a8478f5f527ff2b0, type: 3}
