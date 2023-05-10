@@ -6,7 +6,6 @@ TagManager:
   tags:
   - Damage
   - GameManager
-  - Boss
   layers:
   - Default
   - TransparentFX
