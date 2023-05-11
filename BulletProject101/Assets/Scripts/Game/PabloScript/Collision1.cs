@@ -13,6 +13,8 @@ public class Collision1 : MonoBehaviour
     private bool isDead;
     public PauseMenu gameManager;
 
+    public AudioSource impact;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -29,6 +31,7 @@ public class Collision1 : MonoBehaviour
         }
         else
         {
+            impact.Play();
             currentHealth--;
         }
 
