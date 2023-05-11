@@ -1928,7 +1928,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 519420033}
         m_TargetAssemblyTypeName: ButtonAudio, Assembly-CSharp
         m_MethodName: playThisSoundEffect
         m_Mode: 1
@@ -2376,7 +2376,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 519420033}
         m_TargetAssemblyTypeName: ButtonAudio, Assembly-CSharp
         m_MethodName: playThisSoundEffect
         m_Mode: 1
@@ -2872,7 +2872,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 519420033}
         m_TargetAssemblyTypeName: ButtonAudio, Assembly-CSharp
         m_MethodName: playThisSoundEffect
         m_Mode: 1
@@ -3650,6 +3650,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefabs: {fileID: 0}
   initialSpawnDelay: 5
+--- !u!82 &430359322 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 2680515861691800138, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+  m_PrefabInstance: {fileID: 1748678873}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &440966487
 GameObject:
   m_ObjectHideFlags: 0
@@ -4157,7 +4162,7 @@ PrefabInstance:
     - target: {fileID: 3631218280904421191, guid: d43ae1ca785ca5c48970ea34c49beda6, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 800064a8b3ffbd945bceae0899c60a7f, type: 3}
+      objectReference: {fileID: 8300000, guid: a6a4b6446d02cab45b8bfe29b770573e, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d43ae1ca785ca5c48970ea34c49beda6, type: 3}
 --- !u!1 &499313715
@@ -4348,6 +4353,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -4454,6 +4460,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c2c5cf3504d134bb95147b02518465, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundPlayer: {fileID: 430359322}
 --- !u!1 &540381634
 GameObject:
   m_ObjectHideFlags: 0
@@ -5319,7 +5338,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 519420033}
         m_TargetAssemblyTypeName: ButtonAudio, Assembly-CSharp
         m_MethodName: playThisSoundEffect
         m_Mode: 1
@@ -5725,7 +5744,7 @@ PrefabInstance:
     - target: {fileID: 6800401785951262819, guid: 31aaa0f4e94d0f248a1f003ea4d0a3c6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 519420033}
     - target: {fileID: 6800401785951262819, guid: 31aaa0f4e94d0f248a1f003ea4d0a3c6, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
       value: 2
@@ -5765,7 +5784,7 @@ PrefabInstance:
     - target: {fileID: 6800401786157277259, guid: 31aaa0f4e94d0f248a1f003ea4d0a3c6, type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 519420033}
     - target: {fileID: 6800401786157277259, guid: 31aaa0f4e94d0f248a1f003ea4d0a3c6, type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
@@ -11454,7 +11473,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 519420033}
         m_TargetAssemblyTypeName: ButtonAudio, Assembly-CSharp
         m_MethodName: playThisSoundEffect
         m_Mode: 1
@@ -12167,6 +12186,63 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefabs: {fileID: 0}
   initialSpawnDelay: 5
+--- !u!1001 &1748678873
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2680515861691800139, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_Name
+      value: ButtonAudio
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 510
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.72201514
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2680515861691800141, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e5d034838d5f83240b3e48e9d6729386, type: 3}
 --- !u!1 &1750886064
 GameObject:
   m_ObjectHideFlags: 0
