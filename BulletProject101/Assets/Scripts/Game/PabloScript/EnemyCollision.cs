@@ -6,12 +6,17 @@ public class EnemyCollision : MonoBehaviour
 {
     //Health can be changed on Unity
     public int health = 1;
-
+    private PointManager pointManager;
     //Triggered when 2 Objects collide onto one another
+
+    void Start() 
+    {
+        pointManager = GameObject.Find("PointManager").GetComponent<PointManager>();
+    }
     void OnTriggerEnter2D() 
     {
         Debug.Log ("Trigger");
-
+        
         health--;
     }
 
@@ -20,12 +25,14 @@ public class EnemyCollision : MonoBehaviour
         if (health <= 0) 
         {
             Die();
+            
         }
     }
 
     //Destroys Object
     void Die() 
     {
+        pointManager.UpdateScore(01);
         Destroy(gameObject);
     }
 }
