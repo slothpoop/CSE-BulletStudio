@@ -11,7 +11,6 @@ public class EnemyCollision : MonoBehaviour
     void OnTriggerEnter2D() 
     {
         Debug.Log ("Trigger");
-
         health--;
     }
 
