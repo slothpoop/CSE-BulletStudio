@@ -292,7 +292,7 @@ Transform:
   - {fileID: 32600428}
   - {fileID: 1593294832}
   - {fileID: 136185026}
-  - {fileID: 90155322}
+  - {fileID: 90155321}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -443,7 +443,7 @@ MonoBehaviour:
   _bulletPrefab: {fileID: 1553242939711653432, guid: eb83983ee2823d0499bbbbc630de1606, type: 3}
   _bulletSpeed: 10
   _gunOffset: {fileID: 1507055880}
-  _timeBetweenShots: 0.1
+  _timeBetweenShots: 0.17
 --- !u!114 &31271497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -459,7 +459,7 @@ MonoBehaviour:
   _bulletPrefab: {fileID: 1553242939711653432, guid: eb83983ee2823d0499bbbbc630de1606, type: 3}
   _bulletSpeed: 10
   _gunOffset: {fileID: 261077288}
-  _timeBetweenShots: 0.1
+  _timeBetweenShots: 0.17
 --- !u!114 &31271498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -576,9 +576,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 90155322}
   - component: {fileID: 90155321}
-  - component: {fileID: 90155323}
+  - component: {fileID: 90155324}
+  - component: {fileID: 90155322}
+  - component: {fileID: 90155325}
   m_Layer: 0
   m_Name: BG Sky
   m_TagString: Untagged
@@ -586,7 +587,35 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!212 &90155321
+--- !u!224 &90155321
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90155320}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.009400025}
+  m_LocalScale: {x: 1.8467804, y: 2.016986, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 23084354}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 2.0229187, y: -1.5839996}
+  m_SizeDelta: {x: 1000, y: 500}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &90155322
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90155320}
+  m_CullTransparentMesh: 1
+--- !u!212 &90155324
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -624,36 +653,21 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 448213297
-  m_SortingLayer: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 42bd53996802a734f884985a4dbd0cfb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a0dae40f17940c5429089f66b2792a8d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.4, y: 1.35}
+  m_Size: {x: 10, y: 5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &90155322
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 90155320}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.0735, y: -1.5713509, z: 0.009400025}
-  m_LocalScale: {x: 1.0423864, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 23084354}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &90155323
+--- !u!114 &90155325
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -665,7 +679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8996119f7e9a9014ba91e9f1ba22e3f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 1.8
+  Speed: 2
 --- !u!4 &106369877 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1945036076468780813, guid: 763549ae583111c4092d95033beb0d64, type: 3}
@@ -1382,8 +1396,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2147,7 +2161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3240,7 +3254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

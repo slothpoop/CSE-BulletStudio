@@ -653,7 +653,7 @@ MonoBehaviour:
   _bulletPrefab: {fileID: 1553242939711653432, guid: eb83983ee2823d0499bbbbc630de1606, type: 3}
   _bulletSpeed: 10
   _gunOffset: {fileID: 1507055880}
-  _timeBetweenShots: 0.1
+  _timeBetweenShots: 0.17
 --- !u!114 &31271497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -669,7 +669,7 @@ MonoBehaviour:
   _bulletPrefab: {fileID: 1553242939711653432, guid: eb83983ee2823d0499bbbbc630de1606, type: 3}
   _bulletSpeed: 10
   _gunOffset: {fileID: 261077288}
-  _timeBetweenShots: 0.1
+  _timeBetweenShots: 0.17
 --- !u!114 &31271499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -930,7 +930,7 @@ SpriteRenderer:
   m_SortingLayerID: 448213297
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 42bd53996802a734f884985a4dbd0cfb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b8f7ebec5ac55c1498948e7fcd4a7961, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -949,8 +949,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90155320}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.0833554, y: -1.5713509, z: 0.009400025}
-  m_LocalScale: {x: 1.0611107, y: 1, z: 1}
+  m_LocalPosition: {x: 2.0708, y: -1.1704, z: 0.009400025}
+  m_LocalScale: {x: 0.9633115, y: 1.0092318, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 23084354}
@@ -965,7 +965,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 90155320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8996119f7e9a9014ba91e9f1ba22e3f5, type: 3}
+  m_Script: {fileID: 11500000, guid: 1005381ba5d603e43b9a457d8e6ef4d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 1.8
@@ -6359,8 +6359,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
