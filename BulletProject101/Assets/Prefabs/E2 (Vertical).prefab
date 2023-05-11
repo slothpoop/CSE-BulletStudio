@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 100752085887831366}
   - component: {fileID: 100752085887831369}
   - component: {fileID: 100752085887831368}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: E2 (Vertical)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -114,7 +114,7 @@ GameObject:
   m_Component:
   - component: {fileID: 100752086470210852}
   - component: {fileID: 100752086470210853}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Graphics
   m_TagString: Untagged
   m_Icon: {fileID: 0}
