@@ -13,6 +13,8 @@ public class Collision : MonoBehaviour
     private bool isDead;
     public PauseMenu gameManager;
 
+    public AudioSource impact;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -22,7 +24,7 @@ public class Collision : MonoBehaviour
    //Triggered when 2 Objects collide onto one another
     void OnTriggerEnter2D() {
         Debug.Log ("Trigger");
-
+        impact.Play();
         currentHealth--;
 
         healthBar.SetHealth(currentHealth);
