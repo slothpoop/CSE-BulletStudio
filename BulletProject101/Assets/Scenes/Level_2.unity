@@ -582,7 +582,6 @@ MonoBehaviour:
   _bulletSpeed: 10
   _gunOffset: {fileID: 1507055880}
   _timeBetweenShots: 0.17
-  _timeBetweenShots: 0.17
 --- !u!114 &31271497
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -909,35 +908,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 1.8
---- !u!4 &106369877 stripped
+--- !u!4 &106369877
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 106271145}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1, y: 11.19166, z: 0.009400025}
+  m_GameObject: {fileID: 1553885900}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1036610820}
-  m_RootOrder: 3
+  m_Father: {fileID: 0}
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &106271147
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 106271145}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c7a524407173fcd4694bf63dcc33cae4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefabs: {fileID: 1945036076468780819, guid: d0827a0d91fc312419745d1ddf763808, type: 3}
-  initialSpawnDelay: 22
 --- !u!1 &127948604
 GameObject:
   m_ObjectHideFlags: 0
@@ -2987,7 +2972,7 @@ GameObject:
   - component: {fileID: 440966490}
   - component: {fileID: 440966489}
   - component: {fileID: 440966488}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deleter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4646,7 +4631,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &658437359
 GameObject:
@@ -6475,7 +6460,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1036610820}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &959702828
 MonoBehaviour:
@@ -6904,7 +6889,6 @@ Transform:
   - {fileID: 1275095088}
   - {fileID: 1789712616}
   - {fileID: 2096427244}
-  - {fileID: 106271146}
   - {fileID: 959702827}
   m_Father: {fileID: 1077294659}
   m_RootOrder: 8
@@ -8298,7 +8282,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7819765494038946314, guid: ce600cd707514db4dbdc9a73292aeff4, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7819765494038946314, guid: ce600cd707514db4dbdc9a73292aeff4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9392,7 +9376,7 @@ GameObject:
   - component: {fileID: 1513543715}
   - component: {fileID: 1513543714}
   - component: {fileID: 1513543713}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Deleter (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9471,7 +9455,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1513723254
 GameObject:
@@ -9770,6 +9754,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefabs: {fileID: 1945036076468780819, guid: 3d35371f1395d6947938ac30cac47b35, type: 3}
   initialSpawnDelay: 65
+--- !u!1 &1553885900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 106369877}
+  m_Layer: 0
+  m_Name: 'Recovery GameObject for Transform (ID in file: 106369877)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1568461350
 GameObject:
   m_ObjectHideFlags: 0
@@ -11582,7 +11582,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3631218280904421190, guid: d43ae1ca785ca5c48970ea34c49beda6, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3631218280904421190, guid: d43ae1ca785ca5c48970ea34c49beda6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11721,7 +11721,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1904356857
 GameObject:
