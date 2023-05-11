@@ -6,8 +6,7 @@ using TMPro;
 
 public class MixerController : MonoBehaviour
 {
-    [SerializeField]
-    private AudioMixer myAudioMixer;
+    [SerializeField] private AudioMixer myAudioMixer;
 
     public void SetVolume(float sliderValue)
     {
